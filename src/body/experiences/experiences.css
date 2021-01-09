@@ -1,0 +1,48 @@
+.experiences_wrap {
+	display: flex;
+	justify-content: left;
+	margin-bottom: 20px;
+}
+
+.experiences_wrap img {
+	font-size: 20px;
+	color: #2d7788;
+	margin-right: 10px;
+}
+
+.experiences_wrap h1 {
+	font-size: 20px;
+	font-weight: 500;
+	color: #2d7788;
+}
+
+.Job-description-wrap {
+	display: flex;
+	justify-content: space-between;
+}
+
+.job-title {
+	text-align: left;
+	margin-bottom: 15px;
+}
+
+.job-title h3 {
+	font-size: 18px;
+	color: #3f4650;
+	margin-bottom: 0;
+}
+
+.job-title span {
+	color:#b2aac3;
+}
+
+.date span {
+	color:#b2aac3;
+}
+
+.experiences-desc p {
+	text-align: left;
+	color: #545e6c;
+	line-height: 1.3;
+}
+
